@@ -76,7 +76,6 @@ const projectConfig = {
   store_cors: STORE_CORS,
   //database_database: "./medusa-db.sql",
   database_url: DATABASE_URL,
-  database_type: DATABASE_TYPE,
   admin_cors: ADMIN_CORS,
   // Uncomment the following lines to enable REDIS
   // redis_url: REDIS_URL
